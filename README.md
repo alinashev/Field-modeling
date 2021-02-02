@@ -1,5 +1,5 @@
 # Field-modeling
-University laboratory work: Model of particle motion in different force fields.Model of particle motion in different force fields
+University laboratory work: Model of particle motion in different force fields
 * Magnetic field
 * Gravitational field
 * Electromagnetic field
